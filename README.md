@@ -1,7 +1,6 @@
 # Codex : A Personal Codex Agent 
 
-### A context-aware agent that can answer questions about Umutesa (me) based on documents, datasets , url and images.
-
+### A context-aware agent that can answer questions about Umutesa (yep, that's me) 
 ## Key Features
 
 - **Voice Input**: Record questions using built-in microphone
