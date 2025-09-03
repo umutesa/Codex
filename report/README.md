@@ -1,0 +1,1 @@
+This repository provides a comprehensive overview of the concept behind the project. It outlines the motivation, core ideas, and implementation details that guided the development process. Feel free to explore the documentation and codebase to better understand the thought process and goals driving the work.
