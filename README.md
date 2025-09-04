@@ -22,9 +22,9 @@
   <img width="1251" height="260" alt="Screenshot from 2025-09-04 10-34-40" src="https://github.com/user-attachments/assets/99e5167d-b71c-460e-85e7-ed5b1d674cc1" />
 
  **Visual Story Telling**: Image-based answers
- **Multi input**: Accepts pdf docs , datasets , url websites as input
   <img width="1861" height="803" alt="Screenshot from 2025-09-04 10-33-54" src="https://github.com/user-attachments/assets/2a49f927-88ba-4fec-9e05-c6ab1b8cbb84" />
 
+ **Multi input**: Accepts pdf docs , datasets , url websites as input
 
 ##  Installation & Setup
 
