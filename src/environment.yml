@@ -191,12 +191,6 @@ dependencies:
   - keyring=23.13.1=py311h06a4308_0
   - kiwisolver=1.4.4=py311h6a678d5_0
   - krb5=1.20.1=h143b758_1
-  - streamlit>=1.28.0
-  - langchain>=0.1.0
-  - langchain-community>=0.0.10
-  - langchain-huggingface>=0.0.1
-  - faiss-cpu>=1.7.4
-  - sentence-transformers>=2.2.2
   - lazy-object-proxy=1.6.0=py311h5eee18b_0
   - lazy_loader=0.3=py311h06a4308_0
   - lcms2=2.12=h3be6417_0
@@ -532,6 +526,11 @@ dependencies:
       - smmap==5.0.2
       - sounddevice==0.5.1
       - streamlit==1.45.0
+      - langchain>=0.1.0
+      - langchain-community>=0.0.10
+      - langchain-huggingface>=0.0.1
+      - faiss-cpu>=1.7.4
+      - sentence-transformers>=2.2.2
       - trajnetplusplustools==0.3.0
       - typing-extensions==4.13.2
 prefix: /home/user/anaconda3
