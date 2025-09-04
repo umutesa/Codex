@@ -1,6 +1,6 @@
 # Codex : A Personal Codex Agent 
 
-### Codex is an intelligent, interactive agent that understands context and responds to questions using multiple input formats. Whether you're exploring documents, datasets, or websites, Codex brings your personal knowledge to life through voice, visuals, and smart Q&A.
+### Codex is an intelligent, interactive agent that understands context and responds to questions using multiple input formats. Whether you're exploring documents, datasets, or websites, Codex brings your personal knowledge to life through voice, visuals, and Q&A to answe questions about Umutesa
 
 ## Key Features
 
