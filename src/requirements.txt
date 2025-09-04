@@ -14,7 +14,7 @@ Pillow>=10.0.0
 SpeechRecognition>=3.10.0
 pyttsx3>=2.90
 audio-recorder-streamlit>=0.0.8
-PyAudio>=0.2.11
+audio-recorder-streamlit
 python-docx>=0.8.11
 openpyxl>=3.1.0
 beautifulsoup4>=4.12.0
