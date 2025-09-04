@@ -31,13 +31,14 @@
 ```bash
 python3 -m venv codex_env
 source codex_env/bin/activate
+cd src
 pip install -r requirements.tx
 
 ```
 
 ### Step 3: Run the Application
 ```bash
-streamlit run src/main.py
+streamlit run main.py
 ```
 
 The application will open in your web browser at `http://localhost:8501`
