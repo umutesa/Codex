@@ -1,6 +1,6 @@
 # Codex : A Personal Codex Agent 
 
-### A context-aware agent that can answer questions about Umutesa (me)
+### Codex is an intelligent, interactive agent that understands context and responds to questions using multiple input formats. Whether you're exploring documents, datasets, or websites, Codex brings your personal knowledge to life through voice, visuals, and smart Q&A.
 
 ## Key Features
 
@@ -19,25 +19,23 @@
 - Microphone (for voice features)
 - Internet connection (for model downloads)
 - No API needed
-- Run on CPU
+- Runs on CPU (no GPU needed)
 
 ### Step 1: Clone or Download
 ```bash
-    git clone 
+    git clone https://github.com/umutesa/Codex.git
 ```
 
-### Step 2: Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### Step 3: Run on Virtual Environmnet within Linux ()
+### Step 2: Run on Virtual Environmnet within Linux Environment (Recommended)
 
 ```bash
-sudo apt-get install python3-pyaudio portaudio19-dev
+python3 -m venv codex_env
+source codex_env/bin/activate
+pip install -r requirements.tx
+
 ```
 
-### Step 4: Run the Application
+### Step 3: Run the Application
 ```bash
 streamlit run src/main.py
 ```
