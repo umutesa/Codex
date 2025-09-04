@@ -56,6 +56,13 @@ pip install -r requirements.tx
 streamlit run main.py
 ```
 
+### Step 4: Upload Docs
+```bash
+1. upload the data.json with the src/ folder
+2. upload Umutesa's resume
+3. upload Umutesa website's as a url link : https://umutesa.github.io/umutesa_munyurangabo.github.io/
+```
+
 The application will open in your web browser at `http://localhost:8501`
 
 ### Reference
