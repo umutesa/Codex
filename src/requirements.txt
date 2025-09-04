@@ -20,9 +20,9 @@ openpyxl>=3.1.0
 beautifulsoup4>=4.12.0
 lxml>=4.9.0
 accelerate
-pdypdf2
+pdpdf2
 langchain_anthropic
-pdiffusers
+diffusers
 transformers
 safetensors
 pillow
